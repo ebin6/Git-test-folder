@@ -1,1 +1,7 @@
 Git is a Version Control System
+
+
+To use git in your PC
+ 
+Please download git bash
+    https://git-scm.com/downloads/win 
