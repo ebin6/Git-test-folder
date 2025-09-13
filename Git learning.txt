@@ -5,3 +5,9 @@ To use git in your PC
  
 Please download git bash
     https://git-scm.com/downloads/win 
+
+
+Configure username and email of your GitHub account in git bash
+
+  git config --global user.name "ebin6"
+  git config --global user.email "ebin@gmail.com"
